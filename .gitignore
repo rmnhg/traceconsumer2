@@ -4,3 +4,5 @@
 /.settings
 /HELP.md
 /target
+.project
+.gitignore
