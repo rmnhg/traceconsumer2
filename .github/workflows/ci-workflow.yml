@@ -40,4 +40,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/felixcdr/tc2:latest
+          tags: ghcr.io/rmnhg/traceconsumer2:latest
